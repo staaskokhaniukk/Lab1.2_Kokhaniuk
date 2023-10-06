@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+ h2 {
+	font-family: 'Montserrat', sans-serif;
+}
+ h1 {
+	font-family: 'Montserrat', sans-serif;
+ }
+  r {
+	font-family: 'Montserrat', sans-serif;
+  }
+  u1 {
+	font-family: 'Montserrat', sans-serif;
+  }
+
+.class-name{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: stretch;
+	align-content: stretch;
+	margin-left: 140px;
+}
+
+#element{
+    margin-left: 525px;
+	margin-top: -101px;
+}
+
+.position{
+	margin-left: -1125px;
+	margin-top: 505px;
+}
+.tekst{
+	margin-left: 485px;
+	margin-top: -90px;
+}
+
+.previu{
+	margin-left: 15px;
+	margin-top: 50px
+}
+
+.tovary{
+	margin-left: 5px;
+	margin-top: 30px;
+}
+
+.two{
+	margin-left: 130px;
+}
+
+.puma{
+	margin-left: 200px;
+	margin-top: 505px;
+}
+
+.guess{
+	margin-left: 240px;
+	margin-top: 505px;
+}
+
+.color{
+	background-color: rgb(220, 200, 176);
+}
+
+.reiestrachiia{
+	margin-left: 460px;
+	margin-top: 80px
+}
+
+.reiestrachiiaaa{
+	margin-left: 75px;
+	margin-top: -90px
+}
+
+.modeli{
+	margin-left: 40px;
+	margin-top: 50px
+}
+
+.FORYOU{
+	margin-left: 30px;
+	margin-top: 35px
+}
+
+.pronas{
+	margin-left: 760px;
+	margin-top: -565px
+}
+
+.pofigizm{
+	margin-left: -745px;
+	margin-top: 100px
+} 
+.magaz{
+	margin-left: -745px;
+	margin-top: 0px
+}
+
+.telephone{
+	margin-left: 325px;
+	margin-top: 0px
+}
+
+.nomer{
+	margin-left: 495px;
+	margin-top: -142px
+}
+
+.insta{
+	margin-left: -165px;
+	margin-top: 70px
+}
+
+.amber{
+	margin-left: 0px;
+	margin-top: -120px
+}
+
+.fendi{
+	margin-left: -170px;
+	margin-top: 70px
+}
+
+.nomer2{
+	margin-left: 0px;
+	margin-top: -142px
+}
